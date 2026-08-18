@@ -22,9 +22,7 @@ approvers:
 - lburgazzoli
 - marianmacik
 - rinaldodev
-- robotmaxtron
 - sefroberg
-- steventobin
 - ugiordan
 - valdar
 options: {}
@@ -46,8 +44,6 @@ reviewers:
 - lburgazzoli
 - marianmacik
 - rinaldodev
-- robotmaxtron
 - sefroberg
-- steventobin
 - ugiordan
 - valdar

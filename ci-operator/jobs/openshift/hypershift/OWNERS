@@ -9,11 +9,11 @@ filters:
     approvers:
     - bryan-cox
     - cblecker
+    - clebs
     - csrwng
     - devguyio
     - enxebre
     - jparrill
-    - muraee
     - sjenning
     reviewers:
     - bryan-cox
@@ -24,7 +24,6 @@ filters:
     - enxebre
     - ironcladlou
     - jparrill
-    - muraee
     - nirshal
     - sdminonne
   ^(api|cmd|control-plane-operator|docs|hypershift-operator|product-cli|test)/.*aws.*:
@@ -146,7 +145,6 @@ filters:
     - jkyros
     - joelsmith
     - maxcao13
-    - muraee
   ^kas-bootstrap/.*:
     labels:
     - area/control-plane-operator
@@ -177,7 +175,6 @@ filters:
     - enxebre
     - ironcladlou
     - jparrill
-    - muraee
     - nirshal
     - sdminonne
   ^token-minter/.*:

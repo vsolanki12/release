@@ -7,7 +7,6 @@
 filters:
   .*:
     approvers:
-    - aglitke
     - alromeros
     - awels
     - kaovilai
@@ -18,7 +17,6 @@ filters:
     - sseago
     - weshayutin
     reviewers:
-    - aglitke
     - alromeros
     - awels
     - kaovilai

@@ -10,7 +10,6 @@ approvers:
 - devguyio
 - enxebre
 - jparrill
-- muraee
 - sjenning
 options: {}
 reviewers:
@@ -20,7 +19,6 @@ reviewers:
 - devguyio
 - enxebre
 - jparrill
-- muraee
 - nirshal
 - relyt0925
 - sdminonne

@@ -7,13 +7,11 @@
 filters:
   .*:
     approvers:
-    - aglitke
     - awels
     - nunnatsa
     - rgolangh
     - ydayagi
     reviewers:
-    - aglitke
     - nunnatsa
     - rgolangh
     - ydayagi
